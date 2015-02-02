@@ -57,12 +57,30 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="audiojs\audiojs\audio.js" />
+    <Content Include="audiojs\audiojs\audio.min.js" />
+    <Content Include="audiojs\audiojs\audiojs.swf" />
+    <Content Include="audiojs\audiojs\css\docco.css" />
+    <Content Include="audiojs\audiojs\css\index.css" />
+    <Content Include="audiojs\audiojs\jquery-1.11.1.min.js" />
+    <Content Include="audiojs\audiojs\juicy.mp3" />
+    <Content Include="audiojs\audiojs\player-graphics.gif" />
+    <Content Include="audiojs\dome\AnnotatedSource.html" />
+    <Content Include="audiojs\dome\Example1.html" />
+    <Content Include="audiojs\dome\Example2.html" />
+    <Content Include="audiojs\dome\Example3.html" />
+    <Content Include="audiojs\dome\Example4.html" />
+    <Content Include="audiojs\dome\Example5.html" />
+    <Content Include="audiojs\includes\index.css" />
+    <Content Include="audiojs\index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="audiojs\audiojs\audio.rar" />
+    <Content Include="audiojs\audiojs\audiojs.as" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
